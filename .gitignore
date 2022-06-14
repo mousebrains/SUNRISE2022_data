@@ -1,0 +1,7 @@
+*.mat
+*.csv
+*.nc
+*.png
+.DS_Store
+*~
+.*~
